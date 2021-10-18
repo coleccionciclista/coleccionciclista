@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>ciclyncolection</title>
+		<link  rel="stylesheet" type="text/css"
+				href="css.css" media="screen" />
+				<h1>COLECCIÓN DE CICLISNO </h1>
+	</head>
+	<body>
+	    
+		<div id="header">
+			<ul class="nav">
+				<li><a href="file:///D:/html/home.html">Home</a></li>
+				<li><a href="">Botellines</a>
+					<ul>
+						<li><a href="">2022</a></li>
+						<li><a href="file:///D:/html/botellines/botellines2021.html">2021</a></li>
+						<li><a href="">2020</a></li>
+						<li><a href="">2019</a></li>
+						<li><a href="">2018</a></li>
+						<li><a href="">2017</a></li>
+						<li><a href="">2016</a></li>
+						<li><a href="">2015</a></li>
+						<li><a href="">2014</a></li>
+						<li><a href="">2013</a></li>
+						<li><a href="">2012</a></li>
+						<li><a href="">2011</a></li>
+						<li><a href="">2010</a></li>
+						<li><a href="">2009</a></li>
+						<li><a href="">2008</a></li>
+						<li><a href="">2007</a></li>
+						<li><a href="">2006</a></li>
+						<li><a href="">2005</a></li>
+						<li><a href="">2004</a></li>
+						<li><a href="">2003</a></li>
+						<li><a href="">2002</a></li>
+						<li><a href="">2001</a></li>
+						<li><a href="">2000</a></li>
+						<li><a href="">1999</a></li>
+						<li><a href="">Tour de Francia</a></li>
+						<li><a href="">Sin Datar</a></li>
+							<ul>
+								<li><a href="">Submenu1</a></li>
+								<li><a href="">Submenu2</a></li>
+								<li><a href="">Submenu3</a></li>
+								<li><a href="">Submenu4</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li><a href="">Bolsas</a>
+					<ul>
+							<li><a href="">2022</a></li>
+						<li><a href="">2021</a></li>
+						<li><a href="">2020</a></li>
+						<li><a href="">2019</a></li>
+						<li><a href="">2018</a></li>
+						<li><a href="">2017</a></li>
+						<li><a href="">2016</a></li>
+						<li><a href="">2015</a></li>
+						<li><a href="">2014</a></li>
+						<li><a href="">2013</a></li>
+						<li><a href="">2012</a></li>
+						<li><a href="">2011</a></li>
+						<li><a href="">2010</a></li>
+						<li><a href="">2009</a></li>
+						<li><a href="">2008</a></li>
+						<li><a href="">2007</a></li>
+						<li><a href="">2006</a></li>
+						<li><a href="">2005</a></li>
+						<li><a href="">2004</a></li>
+						<li><a href="">2003</a></li>
+						<li><a href="">2002</a></li>
+						<li><a href="">2001</a></li>
+						<li><a href="">2000</a></li>
+						<li><a href="">1999</a></li>
+					</ul>
+				</li>
+								<li><a href="">Gorras</a>
+					<ul>
+							<li><a href="">2022</a></li>
+						<li><a href="">2021</a></li>
+						<li><a href="">2020</a></li>
+						<li><a href="">2019</a></li>
+						<li><a href="">2018</a></li>
+						<li><a href="">2017</a></li>
+						<li><a href="">2016</a></li>
+						<li><a href="">2015</a></li>
+						<li><a href="">2014</a></li>
+						<li><a href="">2013</a></li>
+						<li><a href="">2012</a></li>
+						<li><a href="">2011</a></li>
+						<li><a href="">2010</a></li>
+						<li><a href="">2009</a></li>
+						<li><a href="">2008</a></li>
+						<li><a href="">2007</a></li>
+						<li><a href="">2006</a></li>
+						<li><a href="">2005</a></li>
+						<li><a href="">2004</a></li>
+						<li><a href="">2003</a></li>
+						<li><a href="">2002</a></li>
+						<li><a href="">2001</a></li>
+						<li><a href="">2000</a></li>
+						<li><a href="">1999</a></li>
+					</ul>
+				</li>
+				
+								<li><a href="">Otros</a>
+					<ul>
+						<li><a href="">Acreditacciones</a></li>
+						<li><a href="">Dorsales</a></li>
+						<li><a href="file:///D:/html/otros/cintas.html">Cintas</a></li>
+						<li><a href="">Mallots</a></li>
+						<li><a href="file:///D:/html/otros/otros.html">Otros</a></li>
+					</ul>
+				</li>
+						
+						<li><a href="">Dobles</a>
+				</li>
+				
+				<li><a href="mailto:coleccionciclista@gmail.com">Contacto</a></li>
+			</ul>
+		</div>
+		
+		<div class="fondo">
+		</div>
+		
+	</body>
+</html>
